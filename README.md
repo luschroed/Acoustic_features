@@ -16,6 +16,8 @@ The primary goal is to investigate whether speech-derived acoustic features can 
 ## Dataset
 This project uses the Distress Analysis Interview Corpus – Wizard of Oz (DAIC-WOZ).
 
+**Reference:**
+
 Jonathan Gratch, Ron Artstein, Gale Lucas, Giota Stratou, Stefan Scherer, Angela Nazarian, Rachel Wood, Jill Boberg, David DeVault, Stacy Marsella, David Traum, Skip Rizzo, Louis-Philippe Morency, “The Distress Analysis Interview Corpus of Human and Computer Interviews,” in Proceedings of Language Resources and Evaluation Conference (LREC), 2014.
 
 ## Workflow
