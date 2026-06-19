@@ -14,7 +14,7 @@ The pipeline uses:
 The primary goal is to investigate whether speech-derived acoustic features can provide useful information for depression assessment.
 
 ## Dataset
-This project uses the Distress Analysis Interview Corpus – Wizard of Oz (DAIC-WOZ).
+This project uses a reduced version of the Distress Analysis Interview Corpus – Wizard of Oz (DAIC-WOZ).
 
 **Reference:**
 
