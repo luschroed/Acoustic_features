@@ -23,10 +23,11 @@ Jonathan Gratch, Ron Artstein, Gale Lucas, Giota Stratou, Stefan Scherer, Angela
 ## Workflow
 1. Load DAIC-WOZ audio recordings
 2. Extract acoustic features using OpenWillis
-3. Create a participant-level feature table
-4. Merge extracted features with depression labels
-5. Perform exploratory analysis and visualization
-6. Train baseline machine learning models
+3. Extract speech characteristics using OpenWillis
+4. Create a participant-level feature table
+5. Merge extracted features with depression labels
+6. Perform exploratory analysis and visualization
+7. Train baseline machine learning models
 
 ## Disclaimer
 This repository is intended for research and educational purposes only.
